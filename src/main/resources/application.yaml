@@ -1,0 +1,7 @@
+server:
+  port: 8081
+url:
+  base: https://api.ru.footballteamgame.com
+user-data:
+  username: {USERNAME}
+  password: {PASSWORD}
